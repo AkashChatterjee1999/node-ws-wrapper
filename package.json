@@ -1,0 +1,12 @@
+{
+  "name": "node-ws-wrapper",
+  "version": "1.0.0",
+  "description": "This is a wrapper for ws library for node.js",
+  "main": "index.js",
+  "repository": "https://github.com/AkashChatterjee1999/node-ws-wrapper.git",
+  "author": "akashchatterjee1999 <akashchatterjee1000@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^7.5.3"
+  }
+}
