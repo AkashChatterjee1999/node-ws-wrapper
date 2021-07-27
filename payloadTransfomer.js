@@ -1,0 +1,5 @@
+class payloadTransformer {
+    constructor(payload) {
+
+    }
+}
